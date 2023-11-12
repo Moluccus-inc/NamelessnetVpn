@@ -1,0 +1,14 @@
+{
+  "version" : "0.0.1",
+  "app_version" : "0.0.1",
+  "servers" : [
+     {
+       "name": "🇺🇸 United States",
+       "server": "ip:port:usr:pwd"
+     },
+     {
+       "name": "🇨🇦 Canada",
+       "server": "ip:port:usr:pwd"
+     },
+  ]
+}
