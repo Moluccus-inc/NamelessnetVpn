@@ -3,12 +3,12 @@
   "appVersion" : "0.0.1",
   "servers" : [
      {
-       "name": "🇺🇸 United States",
+       "serverName": "🇺🇸 United States",
        "server": "ip:port:usr:pwd",
        "protocol" : "udp"
      },
      {
-       "name": "🇨🇦 Canada",
+       "serverName": "🇨🇦 Canada",
        "server": "ip:port:usr:pwd",
        "protocol" : "ssh"
      },
