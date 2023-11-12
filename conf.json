@@ -4,11 +4,13 @@
   "servers" : [
      {
        "name": "🇺🇸 United States",
-       "server": "ip:port:usr:pwd"
+       "server": "ip:port:usr:pwd",
+       "protocol" : "udp"
      },
      {
        "name": "🇨🇦 Canada",
-       "server": "ip:port:usr:pwd"
+       "server": "ip:port:usr:pwd",
+       "protocol" : "ssh"
      },
   ]
 }
