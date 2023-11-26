@@ -4,12 +4,22 @@
   "servers" : [
      {
        "serverName": "🇺🇸 United States",
-       "server": "ip:port:usr:pwd",
+       "server": "64.44.154.196:20000-50000@agnudp:agnudp",
+       "protocol" : "udp"
+     },
+    {
+       "serverName": "🇺🇸 Singapore",
+       "server": "64.44.154.196:20000-50000@agnudp:agnudp",
+       "protocol" : "udp"
+     },
+    {
+       "serverName": "🇺🇸 London",
+       "server": "64.44.154.196:20000-50000@agnudp:agnudp",
        "protocol" : "udp"
      },
      {
        "serverName": "🇨🇦 Canada",
-       "server": "ip:port:usr:pwd",
+       "server": "ip:port@usr:pwd",
        "protocol" : "ssh"
      },
   ]
